@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
+<<<<<<< HEAD
    <feature url="features/genflows.feature_1.0.0.201709081050.jar" id="genflows.feature" version="1.0.0.201709081050"/>
+=======
+   <feature url="features/genflows.feature_1.0.0.201709061425.jar" id="genflows.feature" version="1.0.0.201709061425"/>
+>>>>>>> branch 'master' of https://github.com/m1000five/genflows-site.git
 </site>
